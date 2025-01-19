@@ -9,6 +9,7 @@ $ dpkg -i python3-hashcrack_1.0.0-1_all.deb
 $ hashcrack [parameter]
 
 ## Macos
+$ chmod +x hashcrack
 $ ./hashcrack [parameter]
 
 ## Manual Installation
@@ -21,6 +22,7 @@ $ dpkg -i deb_dist/python3-hashcrack_1.0.0-1_all.deb
 ## Macos
 $ pip install pyinstaller
 $ pyinstaller --onefile hashcrack/hashcrack.py
+$ chmod +x dist/hashcrack
 $ dist/hashcrack [parameter]
 
 ## Usage
