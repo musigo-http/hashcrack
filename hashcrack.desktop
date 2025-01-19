@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=hashcrack
+Comment=brute forcing tool for all sha and md5 hashes
+Exec=hashcrack
+Icon=hashcrack_logo.png
+Categories=Utility;
+Terminal=true
+StartupNotify=true
+StartupWMClass=hashcrack
